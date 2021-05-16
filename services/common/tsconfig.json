@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "strictPropertyInitialization": false,
+    "resolveJsonModule": true,
+    "baseUrl": "./",
+    "paths": {
+      "@services/common/*": [
+        "src/*"
+      ]
+    }
+  }
+}
