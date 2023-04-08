@@ -1,6 +1,6 @@
 export const environment = {
   production: false,
 
-  auth: 'https://cov81493rc.execute-api.sa-east-1.amazonaws.com/qualidade/auth',
+  auth: 'http://localhost:3010/auth',
   users: 'localhost: 3020',
 };
